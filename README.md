@@ -11,7 +11,7 @@
 
 ### 系统功能，在线预览地址
 
-http://124.222.106.130:8081/xiaoyu/#/article/21
+http://111.231.74.123:8081/xiaoyu/#/article/21
 
 ## 技术栈：
 前端：vue + elementui
